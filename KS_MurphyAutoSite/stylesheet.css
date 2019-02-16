@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  font-family: verdana, sans-serif;
+}
+
+#logo{
+	width: 300px;
+	vertical-align: center;
+}	
+
+
+#imageIndex{
+  display: block;
+  width: 100%;
+}
+
+#welcome{
+  float: left;
+  position: absolute;
+  top: 100pt;
+  padding-left: 20px;
+  font-size: 14pt;
+}
+
+
+
+#menu {
+  overflow: hidden;
+  background-color: #F26E07;
+}
+
+#head {
+  float:left;
+  color: #A3E4D7;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+}
+#menu a:hover{
+  color: white;
+}
+
+#pgBtn {
+  float: right;
+  color: #260E17;
+  padding: 28px 20px 20px 0px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight:bold;
+  vertical-align:center;
+}
+
+
